@@ -1,4 +1,5 @@
-sssz
+vim
+-inicio process
 
 
 -mitical sparowme
